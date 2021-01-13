@@ -22,3 +22,14 @@
 * Path Variable
 
 [링크](https://github.com/sinwoo1225/RESTful-Web-Service-Study/tree/3211d68464be21042d8da842e50000644451b56c)
+
+## Section2. User Service API 구현
+### ✅ 2021년 1월13일 완료
+### 다루는 내용
+* Lombok
+* @GetMapping, @PostMapping, @PutMapping, @DeleteMapping
+* @ControllerAdvice
+* Exception Handling
+* ResponseEntity, Status Code
+
+[링크](https://github.com/sinwoo1225/RESTful-Web-Service-Study/tree/4a497bf06b15545b93d5f0a649048b5a7c9af71d)
