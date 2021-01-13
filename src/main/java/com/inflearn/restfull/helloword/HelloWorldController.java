@@ -1,6 +1,5 @@
-package com.inflearn.restfull.controller;
+package com.inflearn.restfull.helloword;
 
-import com.inflearn.restfull.bean.HelloWorldBean;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

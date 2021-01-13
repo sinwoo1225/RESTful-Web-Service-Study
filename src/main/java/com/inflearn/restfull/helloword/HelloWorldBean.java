@@ -1,4 +1,4 @@
-package com.inflearn.restfull.bean;
+package com.inflearn.restfull.helloword;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
