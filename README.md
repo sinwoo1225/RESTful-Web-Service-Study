@@ -33,3 +33,14 @@
 * ResponseEntity, Status Code
 
 [링크](https://github.com/sinwoo1225/RESTful-Web-Service-Study/tree/ab203172befe370b4c4fa6d001548768b0046981)
+
+## Section3. RESTful Service 기능 확장
+### ✅ 2021년 1월21일 완료
+### 다루는 내용
+* Validation API 사용, Bean Validation
+* 다국어처리
+* Response 데이터 형식 변환, jackson-dataformat
+* @JsonIgnore, @JsonIgnoreProperties, @JsonFilter
+* API Version 관리(URI, Request Param, MIME타입, Header)
+
+[링크]()
