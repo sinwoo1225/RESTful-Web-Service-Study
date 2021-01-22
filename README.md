@@ -44,3 +44,14 @@
 * API Version 관리(URI, Request Param, MIME타입, Header)
 
 [링크](https://github.com/sinwoo1225/RESTful-Web-Service-Study/tree/2a9ac23d40b9ee87145c75a18d09a2da10191db5)
+
+## Section4. Spring Boot API 사용
+### ✅ 2021년 1월22일 완료
+### 다루는 내용
+* Validation API 사용, Bean Validation
+* HATEOAS, spring-hateoas
+* API Documentation, Swagger
+* HAL Browser
+* Spring sequrity, Authentication
+
+[링크]()

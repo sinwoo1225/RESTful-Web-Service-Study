@@ -24,10 +24,16 @@ dependencies {
 //    compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-jpa', version: '2.3.4.RELEASE'
     testCompile group: 'com.h2database', name: 'h2', version: '1.4.197'
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-hateoas', version: '2.3.6.RELEASE'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
     compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.11.3'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation "io.springfox:springfox-boot-starter:3.0.0"
+    implementation "io.springfox:springfox-swagger-ui:3.0.0"
+    implementation "org.springframework.boot:spring-boot-starter-actuator"
+    compile group: 'org.springframework.data', name: 'spring-data-rest-hal-browser', version: '3.3.6.RELEASE'
+    implementation "org.springframework.boot:spring-boot-starter-security"
 }
 
 test {
