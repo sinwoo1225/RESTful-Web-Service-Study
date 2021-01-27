@@ -63,4 +63,10 @@
 * JpaRepository
 * @Entity, @Id, @GenerateValue, @OneToMany, @ManyToOne
 
-[링크]()
+[링크](https://github.com/sinwoo1225/RESTful-Web-Service-Study/tree/b009b4de293afda8fce55875c09873908b94c305)
+
+## Section6. RESTful API 설계 가이드
+### ✅ 2021년 1월27일 완료
+### 다루는 내용
+* Richardson Maturity Model 
+* REST API 설계 시 고려해야 할 사항
