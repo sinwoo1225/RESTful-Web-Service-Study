@@ -55,3 +55,12 @@
 * Spring sequrity, Authentication
 
 [링크](https://github.com/sinwoo1225/RESTful-Web-Service-Study/tree/5999fc65882f4b939c6fcf09a5d0ca1b1315ed0f)
+
+## Section5. Java Persistence API 사용
+### ✅ 2021년 1월27일 완료
+### 다루는 내용
+* JPA, Spring Data JPA, Hibernete
+* JpaRepository
+* @Entity, @Id, @GenerateValue, @OneToMany, @ManyToOne
+
+[링크]()
